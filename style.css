@@ -1,0 +1,12 @@
+.id1{
+    background-image: center;
+    height: 2px;
+    width: 2px;
+    margin-: 10px;
+    
+}
+body{
+    background-image: url(parul2.jpg);
+    
+    background-size: cover;
+}
